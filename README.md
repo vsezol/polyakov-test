@@ -2,6 +2,11 @@
 
 ## Как использовать?
 
+Наводите курсор в левый нижний угол - у вас появляется окно с файлом. Поиск по странице тоже работает. Помогает 100% - проверено опытом, все отлично работает :)
+![image](./assets/demo.gif)
+
+## Как настроить?
+
 1. Устанавливаете расширение [User JavaScript and CSS](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 
 2. Заходите на https://edu.stankin.ru
